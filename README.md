@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Cloud**
 
-- 👯 I’m looking to collaborate on **Full Stack, Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Full Stack Development and Machine Learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akanksha29-Jadhao](https://github.com/akanksha29-Jadhao)
 
-- 💬 Ask me about **I am a passionate developer, looking forward to work on real-time projects by utilizing my Skills and Experience.**
+- 💬 Ask me about *Python,Java Full Stack,Data Science,Google Cloud Platform**
 
 - 📫 How to reach me **akankshajadhao98@gmail.com**
 - LinkedIn **[Akanksha Jadhao](https://www.linkedin.com/in/akanksha-jadhao/)**
