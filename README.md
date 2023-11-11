@@ -7,17 +7,18 @@
 
 - 🌱 I’m currently learning **Cloud**
 
-- 👯 I’m looking to collaborate on **Full Stack Development and Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Full Stack, Machine Learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akanksha29-Jadhao](https://github.com/akanksha29-Jadhao)
 
-- 💬 Ask me about *Python,Java Full Stack,Data Science,Google Cloud Platform**
+- 💬 Ask me about **I am a passionate developer, looking forward to work on real-time projects by utilizing my Skills and Experience.**
 
 - 📫 How to reach me **akankshajadhao98@gmail.com**
-- LinkedIn **[Akanksha Jadhao](https://www.linkedin.com/in/akanksha-jadhao/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/https://codepen.io/akanksha-jadhao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/akanksha-jadhao" height="30" width="40" /></a>
+<a href="https://twitter.com/jadhao_akanksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jadhao_akanksha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akanksha-jadhao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akanksha-jadhao/" height="30" width="40" /></a>
 </p>
 
