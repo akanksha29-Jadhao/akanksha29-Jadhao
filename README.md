@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python,Java Full Stack,Data Science,Google Cloud Platform**
 
-- 📫 How to reach me **akankshajadhao98@gmail.com**
+- 📫 Reach me **akankshajadhao98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
